@@ -1,0 +1,49 @@
+body {
+	font-family: "Helvetica", "Arial", sans-serif;
+	font-size: 12px;
+}
+
+h3 {
+	margin: 18px 0px;
+}
+
+em {
+	font-family: "Times New Roman", serif;
+	font-size: 13px;
+}
+
+.image {
+	width: 300px;
+}
+
+.card {
+	width: 300px;
+	margin: 10px;
+	padding: 10px;
+	padding-top: 0px;
+	border: 1px solid #ddd;
+	background-color: #fafafa;
+	border-radius: 2px;
+	box-shadow: 0 27px 55px 0 rgba(0, 0, 0, 0.1), 0 17px 17px 0 rgba(0, 0, 0, 0.15);
+}
+
+.card-description {
+	margin-top: 10px;
+	padding: 0px 10px 0px 10px;
+	border: 1px solid #ddd;
+}
+
+dt {
+	font-style: bold;
+}
+ 
+dl dt {
+    float: left; 
+    font-weight: bold;
+    margin: 0px;
+    margin-right: 0.5em;
+}
+ 
+dl dd {
+    margin: 0px 0px;
+}
